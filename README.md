@@ -5,7 +5,7 @@
 📝 Precisamos contruir uma aplicaçãoo para regstrarmos itens que estão em falta e pecisam ser comprados 
 quando irmos ao supermercado.
 
-###Principais funcionalidades:
+###Principais funcionalidades:<br>
 *1-Adicionar item <br>
 *2- Listar itens presentes na lista<br>
 *3-Remover item da lista
